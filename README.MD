@@ -89,3 +89,11 @@ export  $initHighlight;
 | ------ | -------- | --------- |
 | Ian    | Aros     | PDF       |
 | Mildred| Longares | PSD       |
+
+# Citas
+Esto es un texto referente a la cita que pondremos debajo:
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior:
+
+> Esto es otra cita.
