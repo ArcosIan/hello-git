@@ -112,3 +112,11 @@ Esto es otro texto dividido por asteriscos
 Esto es otro texto dividido por guiones bajos
 
 ___
+
+# Saltos de linea
+
+Esto es el primer parrafo.
+
+Esto  es el segundo parrafo.
+
+Esto  es el tercer parrafo.
